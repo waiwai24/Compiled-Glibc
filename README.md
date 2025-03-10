@@ -1,4 +1,4 @@
-# Compiled-Ubuntu-Glibc
+# Compiled-Glibc
 The ubuntu glibc package is compiled  to facilitate  debugging
 
 You can compile by youself，but there may be some problems:
